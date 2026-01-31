@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! Sinagot ako ni Babiee for Valentine's! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Kiss ka sakin tomorrow!!! Part 1 palang to may part 2 pa hihihi",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
